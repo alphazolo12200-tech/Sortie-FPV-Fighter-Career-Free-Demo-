@@ -1,66 +1,122 @@
-# Sortie FPV: Fighter Career (Free Demo)
+<div align="center">
 
-A first-person 3D fighter pilot career game that runs in your browser. Take off, land, earn your first rank, then decide if you want the full carrier career.
+# ✈️ Sortie FPV: Fighter Career
 
-**Play online:** https://alphazolo12200-tech.github.io/sortie-fpv-demo/
-**Full game (16 sorties, carrier ops):** https://alphazolozyro.itch.io/sortie-fpv
+### Take off, trap a carrier wire and earn your wings in a first-person 3D fighter pilot career.
 
-Works on desktop and phone (landscape is best). No install, no account, and it runs offline once downloaded.
+[![Play Free Demo](https://img.shields.io/badge/▶_PLAY_FREE_DEMO-in_your_browser-2ea44f?style=for-the-badge)](https://alphazolo12200-tech.github.io/Sortie-FPV-Fighter-Career-Free-Demo-/)
+[![Get Full Game](https://img.shields.io/badge/GET_FULL_GAME-$7.99_on_itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white)](https://alphazolozyro.itch.io/sortie-fpv)
+[![Watch Trailer](https://img.shields.io/badge/WATCH-on_YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=UADJ0ODU0W0)
 
-## What is in this demo
+![Built with three.js](https://img.shields.io/badge/built_with-three.js-black?logo=threedotjs)
+![Platform](https://img.shields.io/badge/platform-browser_%7C_desktop_%7C_mobile-blue)
+![No install](https://img.shields.io/badge/install-none_required-brightgreen)
 
-- **2 sorties:** Cold Start Takeoff and Pattern Landing, both in daylight with an instructor on board.
-- **2 ranks:** Cadet and Student Pilot. Pass a sortie (50 points or more) to unlock the next one and earn XP.
-- Full cockpit view with HUD, ILS guidance, jet engine sound and spoken instructor callouts.
+[![Sortie FPV trailer](https://img.youtube.com/vi/UADJ0ODU0W0/maxresdefault.jpg)](https://www.youtube.com/watch?v=UADJ0ODU0W0)
 
-## What the full game adds
+</div>
 
-- 16 sorties: night training, solo flights, dusk gusts, storm nights and a check ride
-- Carrier operations: catapult launches, the landing ball, arrestor hook and wire landings, bolters
-- 10 ranks from Cadet to Air Marshal
-- Rain and lightning on the hardest sorties
+---
 
-## Controls
+## 🎮 Play now
+
+**👉 [Play the free demo right here in your browser](https://alphazolo12200-tech.github.io/Sortie-FPV-Fighter-Career-Free-Demo-/)** (no install, no account).
+
+Want the whole career? **[Get the full game on itch.io ($7.99)](https://alphazolozyro.itch.io/sortie-fpv)**. It's a small download that runs offline.
+
+---
+
+## About
+
+Climb into the cockpit and build a fighter pilot career, one sortie at a time. Take off, fly the pattern, land by the numbers, and work your way up from **Cadet to Air Marshal**. Then take it to the carrier deck.
+
+## ✨ Features
+
+- **16 sorties**: day and night training, first solo, dusk gusts, a storm night, and a check ride
+- **Carrier operations**: catapult launches, arrestor hook and wire landings, bolters
+- **10 ranks** from Cadet to Air Marshal, with XP and scoring that rewards smooth, accurate flying
+- **Full cockpit view** with HUD, ILS guidance, jet engine sound and spoken instructor callouts
+- **Rain and lightning** on the hardest sorties
+- **Gentle final-approach controls**: the wings level themselves when you let go
+- **Works on desktop and phones** (landscape is best)
+
+## 🆚 Demo vs full game
+
+| | Free demo | Full game |
+|---|:---:|:---:|
+| Sorties | 2 (Cold Start Takeoff, Pattern Landing) | **16** |
+| Ranks | Cadet, Student Pilot | **10** |
+| Night and storm flying | ❌ | ✅ |
+| Carrier ops | ❌ | ✅ |
+| Runs offline | ❌ | ✅ |
+| Price | Free | **$7.99** |
+
+[▶ Play the demo](https://alphazolo12200-tech.github.io/Sortie-FPV-Fighter-Career-Free-Demo-/) · [🛒 Get the full game](https://alphazolozyro.itch.io/sortie-fpv)
+
+---
+
+## 🎬 Videos
+
+| Video | Link |
+|---|---|
+| Trailer / overview | [Watch on YouTube](https://www.youtube.com/watch?v=UADJ0ODU0W0) |
+| Takeoff, pattern and landing | [Watch on YouTube](https://www.youtube.com/watch?v=VIDEO_ID_2) |
+| Carrier ops: catapult and arrestor wire | [Watch on YouTube](https://www.youtube.com/watch?v=VIDEO_ID_3) |
+| Night flying, lightning and storm check ride | [Watch on YouTube](https://www.youtube.com/watch?v=VIDEO_ID_4) |
+
+---
+
+## 🕹️ Controls
 
 | Action | Keyboard | Touch |
-| --- | --- | --- |
-| Pitch and roll | Arrow keys or WASD (pull back = nose up) | Drag on the right half of the screen |
+|---|---|---|
+| Pitch and roll | Arrow keys or WASD | Drag right half of screen |
 | Throttle | Shift up, Ctrl down | Slider on the left |
-| Rudder | Q and E | - |
-| Landing gear | G | GEAR button |
-| Flaps | F | FLAPS button |
-| Wheel brakes | Space | BRAKE button |
-| Voice on or off | V | VOICE button |
+| Rudder | Q / E | n/a |
+| Gear / Flaps | G / F | GEAR / FLAPS buttons |
+| Hook / Catapult *(full game)* | H / L | Buttons |
+| Brakes | Space | BRAKE button |
+| Voice on/off | V | VOICE button |
 | Invert pitch | I | INV button |
-| Pause menu | P or Esc | \|\| button |
-| Retry the sortie | R | Pause menu |
+| Pause / Retry | P or Esc / R | Pause menu |
 
-On final approach the controls are deliberately gentler, and the wings level themselves when you let go, so small corrections are easier.
+---
 
-## How to play
+## 💻 Requirements and good to know
 
-1. Start with Sortie 1. Hold full throttle, roll along the runway, rotate gently at about 140 knots, then raise the gear and climb to 300 m.
-2. Sortie 2 starts you on a 3 degree approach. Lower gear and flaps, keep the pink ILS cross centred, ease the throttle back and put the aircraft down smoothly. Then brake to a stop.
-3. Your score depends on stalls, touchdown softness, where you touch down, centreline error and bounces. Replay any sortie to beat your best score.
+- A browser with **WebGL** (recent Chrome, Edge, Firefox or Safari)
+- Arcade-style flight model, **not** a certified simulator
+- Progress is saved in your browser on that device
+- Sound starts after your first tap or key press (a browser rule)
+- Spoken callouts use your device's built-in voice; press **V** to turn them off
+- **Full game:** download the zip, unzip, open `index.html`. It runs offline.
 
-## Run it yourself
+---
 
-- **Locally:** download this folder and open `index.html` in a modern browser. Nothing else is needed.
-- **On GitHub Pages:** put `index.html` in the repository root, then go to Settings, Pages, choose the main branch and the root folder. Your demo appears at `https://<your-username>.github.io/<repository-name>/` after a minute or two.
+## 📬 Find us and get in touch
 
-## Good to know
+| | |
+|---|---|
+| 🎮 **Full game and comments** | [alphazolozyro.itch.io/sortie-fpv](https://alphazolozyro.itch.io/sortie-fpv) |
+| 🕹️ **More games by AlphaZolo** | [alphazolozyro.itch.io](https://alphazolozyro.itch.io) |
+| 📺 **Videos** | [Trailer on YouTube](https://www.youtube.com/watch?v=UADJ0ODU0W0) |
+| 🛒 **Digital products and study apps** | [alphazolo.gumroad.com](https://alphazolo.gumroad.com) |
+| 🐛 **Bug reports and feature requests** | [Open an issue](../../issues) |
 
-- Needs a browser with WebGL. Recent Chrome, Edge, Firefox and Safari work.
-- The flight model is arcade style, built to feel good and teach approach discipline. It is not a certified simulator.
-- Spoken callouts use your device's built-in voice, so the voice and accent depend on your device. Press V to turn them off.
-- Progress is saved in your browser on that device, so it will not follow you to another browser.
-- Sound starts after your first tap or key press, which is a browser rule.
+Found a bug, have feedback, or want to suggest a new sortie? Leave a comment on the itch.io page or open a GitHub issue. We read them all.
 
-## Credits and licence
+⭐ **If you enjoy the demo, please star this repo and follow AlphaZolo on itch.io. It helps more pilots find the game.**
 
-- Game design, code and content: alphazolo. All rights reserved. You are welcome to play and share the link to this demo, but please do not redistribute or resell the files.
-- Built with [three.js](https://threejs.org/) r128, which is MIT licensed. Its licence notice is kept at the top of the script inside `index.html`.
+---
 
-## More from alphazolo
+## 🙏 Credits
 
-Other games and tools: https://alphazolozyro.itch.io and https://alphazolo.gumroad.com
+Design, code and content by **AlphaZolo**. Built with [three.js](https://threejs.org/) (MIT).
+
+> **AI disclosure:** this project was created with the help of generative AI tools.
+
+<div align="center">
+
+**[▶ Play the Demo](https://alphazolo12200-tech.github.io/Sortie-FPV-Fighter-Career-Free-Demo-/)** · **[🛒 Full Game](https://alphazolozyro.itch.io/sortie-fpv)** · **[📺 Trailer](https://www.youtube.com/watch?v=UADJ0ODU0W0)**
+
+</div>
